@@ -29,6 +29,10 @@ Este repositorio contiene experimentos relacionados con el uso de Estimación de
    ```
 3. Abre el archivo `GPS_MHE.ipynb` en Jupyter Notebook o JupyterLab para explorar los experimentos.
 
+## Publicaciones
+
+Este repositorio incluye material relacionado con el trabajo titulado **"Robust Moving Horizon Estimation with Huber Loss in Presence of Outliers"**, presentado en la **XXI Reunión de Trabajo en Procesamiento de la Información y Control (RPIC2025)**. Puedes encontrar el documento completo en el archivo [RPIC_Hernández.pdf](./RPIC_Hernández.pdf).
+
 ## Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
