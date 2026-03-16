@@ -31,7 +31,7 @@ Este repositorio contiene experimentos relacionados con el uso de Estimación de
 
 ## Publicaciones
 
-Este repositorio incluye material relacionado con el trabajo titulado **"Robust Moving Horizon Estimation with Huber Loss in Presence of Outliers"**, presentado en la **XXI Reunión de Trabajo en Procesamiento de la Información y Control (RPIC2025)**. Puedes encontrar el documento completo en el archivo [RPIC_Hernández.pdf](./RPIC_Hernández.pdf).
+Este repositorio incluye material relacionado con el trabajo titulado **"Robust Moving Horizon Estimation with Huber Loss in Presence of Outliers"**, presentado en la **XXI Reunión de Trabajo en Procesamiento de la Información y Control (RPIC2025)**. Puedes encontrar el documento completo en el archivo [RPIC_Hernández.pdf](./RPIC_Hernández.pdf). Luego de haber presentado el trabajo, se han realizado mejoras en el código, por lo que los resultados pueden variar ligeramente respecto a los presentados en el documento.
 
 ## Licencia
 
